@@ -1,4 +1,4 @@
-# Front-End-Projects
+# Web-development-Projects
 
 |Sr.NO| Title               | Link     | Github  |
 |-----|---------------------|------------------|------------------------|
